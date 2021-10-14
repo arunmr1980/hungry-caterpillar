@@ -8,3 +8,5 @@ change in merge1
 
 change in merge
 
+change in merge-test 3
+
