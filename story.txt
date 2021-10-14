@@ -4,3 +4,5 @@ merge test change 1
 
 change in master
 
+change in merge
+
