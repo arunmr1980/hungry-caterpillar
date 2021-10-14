@@ -1,4 +1,6 @@
 In the light of the moon a tiny egg lay on a leaf.
 
+merge test change 1
+
 change in master
 
